@@ -10,3 +10,4 @@
             if flag==1:
                 count += 1
     return count
+#In third line it wil be useful to write loop like that or else index out of range error will occur.
